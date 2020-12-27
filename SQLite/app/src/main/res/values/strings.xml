@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">android_num_30_SQLite</string>
+    <string name="Hw30_title">SQ Lite</string>
+    <string name="Hw30_name">NAME</string>
+    <string name="Hw30_level">LEVEL</string>
+    <string name="Hw30_site">SITE</string>
+    <string name="Hw30_id">ID</string>
+    <string name="Hw30_add">ADD DATA</string>
+    <string name="Hw30_all">View ALL</string>
+    <string name="Hw30_upDate">UPDATE</string>
+    <string name="Hw30_dalete">DELETE</string>
+</resources>
